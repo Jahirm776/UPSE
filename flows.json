@@ -40,7 +40,7 @@
         "id": "637aa30afa16d997",
         "type": "debug",
         "z": "e0c779fbcaf8856b",
-        "name": "debug 1",
+        "name": "Mensaje",
         "active": true,
         "tosidebar": true,
         "console": false,
